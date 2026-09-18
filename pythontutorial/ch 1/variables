@@ -1,0 +1,17 @@
+b=1.23456
+print(b)
+
+c="nandan"
+print(c)
+
+Nandan="Nandan"
+x=Nandan #here interpreter will assume Nandan as variable 
+
+print (x)
+# To solve this semantic error put Nandan="Nandan"
+
+p,q,r=11,12,13 #assingning multiple variables 
+
+print (p,q,r)
+
+print("A"+"B")
