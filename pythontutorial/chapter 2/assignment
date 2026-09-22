@@ -1,0 +1,22 @@
+#q1
+print("Python is fun")
+print('''"Quotes" and 'single quotes' can be tricky''')
+
+# Q2
+Name="Nandan"
+Age=20
+City="Jalgoan" 
+print("My name is", Name, "I am", Age, "years old and I live in", City)
+
+
+# we can also use this metod 
+print("Python is fun.\nit is easy to learn.\nIt is used in many fields.")
+
+# this is a multi-line comment 
+# we can use f-strings to format the output
+# like this way
+
+print(f"My name is {Name}. I am {Age} years old and I live in {City}.")
+
+
+# assignment complete

@@ -14,4 +14,4 @@ p,q,r=11,12,13 #assingning multiple variables
 
 print (p,q,r)
 #  
-print("A"+"B")
+print("A"+"B") # here we are concatenating two strings

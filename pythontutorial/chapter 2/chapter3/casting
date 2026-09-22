@@ -1,0 +1,53 @@
+ #casting in python 
+
+a=1
+b="1"
+
+# print(b+a)
+
+print(int(b)+a) #casting string to integer
+
+
+c="madhav"
+
+# print(int(c)+a) #this will give error because string cannot be converted to integer
+
+#     print(int(c)+a) #this will give error because string cannot be converted to integer
+#           ~~~^^^
+# ValueError: invalid literal for int() with base 10: 'madhav'
+
+
+a=1
+b=str(a) #casting integer to string
+print(b)
+
+print(type(str(11111))) 
+
+# implicit casting in python
+
+# AUTOMATICALLY CONVERTING ONE DATA TYPE TO ANOTHER DATA TYPE IS CALLED IMPLICIT CASTING
+# CASTING ,IT IS DONE AUTOMATICALLY 
+# HERE LOOK AT THE EXAMPLE BELOW 
+A=10 
+B=12.5
+print(A+B) # here python automatically converts integer to float and then adds them
+
+print(type(A+B)) 
+
+# <class 'float'> 
+# this is how we do implicit casting in python
+
+# EXPLICIT CASTING IN PYTHON 
+# IS DONE MANUALLY 
+# GIVES DESIRED OUTPUT 
+# IS TYPE DATA CONVERSION BY THE USER 
+
+
+# VALUE TO BOOLEAN
+# bool() function is used to convert a value to a boolean
+print('''bool(0) gives false \nbool(1) gives True''' )
+
+print(bool(0)) # gives false
+print(bool(1)) # gives true     
+
+# casting is over 
