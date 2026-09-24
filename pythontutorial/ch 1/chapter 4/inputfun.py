@@ -2,14 +2,14 @@
 
 # basically takes input from the user and return as string 
 
-# name=input("Enter your name: ")
+# name= input("Enter your name: ")
 
 # # print("Hello, " + name + "") #variable name in not in quotes
 
 # print(f"Hello {name}") #format string 
 # #also you can do this by using format function
 
-# a=input()
+# a = input()
 
 
 # print(f"Hello{a}")
