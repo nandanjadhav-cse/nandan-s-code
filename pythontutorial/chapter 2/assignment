@@ -1,16 +1,16 @@
 #q1
 print("Python is fun")
-print('''"Quotes" and 'single quotes' can be tricky''')
+print('''"Quotes" and 'single quotes' can be tricky''') #use triple quotes to avoid errors
 
 # Q2
 Name="Nandan"
 Age=20
 City="Jalgoan" 
-print("My name is", Name, "I am", Age, "years old and I live in", City)
+print("My name is", Name, "I am", Age, "years old and I live in", City) #dont write the variable name in quotes otherwise it will be treated as a string 
 
 
 # we can also use this metod 
-print("Python is fun.\nit is easy to learn.\nIt is used in many fields.")
+print("Python is fun.\nit is easy to learn.\nIt is used in many fields.") #\n is used to print in new line
 
 # this is a multi-line comment 
 # we can use f-strings to format the output

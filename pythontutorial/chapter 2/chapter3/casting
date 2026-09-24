@@ -3,7 +3,7 @@
 a=1
 b="1"
 
-# print(b+a)
+print(b+a)
 
 print(int(b)+a) #casting string to integer
 
