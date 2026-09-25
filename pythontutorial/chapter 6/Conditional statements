@@ -1,0 +1,29 @@
+# Conditional statements 
+
+# 1 if statement
+# a=10
+# if a>5:
+#     print("a is greater than 5")
+
+
+
+# Age = input("Enter your age: ")
+
+# if  int(Age) > 18 :   # convert this to integer because comparison operators needs integer values 
+
+
+
+#     print("you are an adult")
+# else:
+#     print("you are minor")
+
+temp=int(input("enter temp in degree celsius:"))
+
+
+if temp> 25 :
+    print("its hot today ")
+
+else:
+    print ("its cold today")
+
+
