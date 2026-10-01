@@ -82,10 +82,14 @@ a10= None
 print(type(a10))    
 
 
+# <class 'NoneType'>
+
 # this is how we check the data type of bytes in python
 
 
 a11= b"nandan"
 print(type(a11))    
+
+
 
 

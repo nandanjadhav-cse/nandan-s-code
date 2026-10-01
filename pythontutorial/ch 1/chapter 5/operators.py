@@ -1,4 +1,7 @@
 #operators 
+#are special symbols that are used on operands 
+
+
 
 a=10
 b=15

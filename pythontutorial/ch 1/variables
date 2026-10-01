@@ -1,3 +1,6 @@
+# variables  basically stores data   
+
+
 b=1.23456
 print(b)
 
@@ -12,6 +15,13 @@ print (x)
 
 p,q,r=11,12,13 #assingning multiple variables 
 
-print (p,q,r)
+
+
+print(p)
+
+
+print(q)
+
+print(r)
 #  
 print("A"+"B") # here we are concatenating two strings
